@@ -1,19 +1,21 @@
-# Test
+# ReadMe
 
 ## Инструкция по запуску:
 Каждый файл с заданием предварительно нужно скомпилировать:
 kotlinc yourapp.kt -include-runtime -d yourapp.jar 
 А потом запустить:
-> kotlinc yourapp.jar
+kotlinc yourapp.jar
 
 ___
+
 
 # Задание 1
 
 ## Пример запуска:
 > java -jar Level_1.jar the quick brown fox jumps over the lazy dog
 
-## Входные параметры: the quick brown fox jumps over the lazy dog
+## Входные параметры: 
+the quick brown fox jumps over the lazy dog
 
 ## Вывод:
 the
@@ -33,7 +35,8 @@ ___
 ## Пример запуска:
 > java -jar Level_2.jar the quick brown fox jumps over the lazy dog
 
-## Входные параметры: the quick brown fox jumps over the lazy dog
+## Входные параметры:
+the quick brown fox jumps over the lazy dog
 
 ## Вывод:
 brown
@@ -46,7 +49,6 @@ quick
 the
 the
 
-
 ___
 
 # Задание 3
@@ -54,7 +56,9 @@ ___
 ## Пример запуска:
 > java -jar Level_3.jar the quick brown fox jumps over the lazy dog
 
-## Входные параметры: the quick brown fox jumps over the lazy dog
+## Входные параметры:
+the quick brown fox jumps over the lazy dog
+
 
 ## Вывод:
 brown
