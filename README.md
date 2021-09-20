@@ -3,7 +3,9 @@
 ## Инструкция по запуску:
 Каждый файл с заданием предварительно нужно скомпилировать:
 kotlinc yourapp.kt -include-runtime -d yourapp.jar 
+
 А потом запустить:
+
 kotlinc yourapp.jar
 
 ___
